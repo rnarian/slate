@@ -27,6 +27,7 @@
 ## Usage
 
  - press `?` to display the shortcut dialog
+ - press `⌘-s` to display the settings page (add connections/channels etc)
 
 ## Building
 
