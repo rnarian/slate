@@ -1,8 +1,10 @@
 {
   "name": "settings",
   "description": "Settings management",
-  "scripts": ["index.js"],
+  "scripts": ["index.js", "dialog.js"],
+  "templates": ["dialog.html", "connection.html", "channel.html"],
   "dependencies": {
-    "yields/store": "0.2.0"
+    "yields/store": "0.2.0",
+    "component/dom": "0.9.0"
   }
 }
